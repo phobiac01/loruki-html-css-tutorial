@@ -1,2 +1,3 @@
 Following along to the HTML/CSS tutorial video by Traversy Media:
-> https://www.youtube.com/watch?v=p0bGHP-PXD4 
+> https://youtu.be/p0bGHP-PXD4?t=4476
+> https://github.com/bradtraversy/loruki-website
